@@ -13,3 +13,21 @@ Entre em contato comigo através do **[LinkedIn](https://www.linkedin.com/in/ala
 💡 **Minhas Tecnologias**
 
 Postman | PostgreSQL | JavaScript | Visual Studio Code | JIRA | DevTools | Git | Github | Testes manuais
+
+
+👩‍🎓 **Meus Certificados**
+![image](https://github.com/user-attachments/assets/0b245e41-a95c-4556-a0c3-e2cde5d3ba9a)
+![image](https://github.com/user-attachments/assets/6beaef96-dec9-4657-b208-e77ac28fca4b)
+![image](https://github.com/user-attachments/assets/63896dc9-47e2-482f-ac55-096cf0434f70)
+![image](https://github.com/user-attachments/assets/9b9d0d1a-0d61-4238-a0d7-abbac4609c1b)
+
+
+E estes são alguns dos projetos que eu desenvolvi na minha trajetória como QA:
+
+| Nome do projeto  | Link |  Ferramentas de teste  |  Observação  |
+| ------------- | ------------- | ------------- | ------------- |
+| Teste de Regressão do Urban.Routes  | Content Cell  | -  | Primeiro projeto do bootcamp: execução de casos de teste no aplicativo web do Urban.Routes e relatoria dos bugs  |
+| Design de testes do Urban.Routes  | Content Cell  | Design de testes  | Desenvolvimento de documentação de testes, utilizando valores-limite e classes de equivalência  |
+| Testes Web de Funcionalidade do Urban.Routes  |  Content Cell  | Jira  | Desenvolvimento de documentação de testes para diferentes funcionalidades, testagem web manual  |
+| Testes de API do Urban.Grocers  | Content Cell  | Postman, Jira, Apidoc, Swagger  | Análise de requisitos e desenvolvimento de documentação de teste, teste de API manual  |
+| Projeto Final TripleTen: Design de testes, testes web e API do Urban.Scooter  | Content Cell  | Postman, Jira, Apidoc  | Análise de requisitos e desenvolvimento de documentação de testes, teste web manual, teste API manual  |
